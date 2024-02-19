@@ -8,3 +8,4 @@ def billdiv (bill,  npeeps):
 
 billdiv(100, 10)
 
+billdiv(100, 10)
