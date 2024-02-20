@@ -26,6 +26,7 @@ class Driver:
       return [3]
 
         
-
+driver = driver_make('John', 'Doe', 'Toyota Camry')
+print(driver.getFirstName())  # Output: John
 
 
