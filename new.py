@@ -1,5 +1,10 @@
 
-a =[1,3,5,7.9]
+array1 = ['i',[1,2,4,5]]
 
-print(a[0],a[1],a[2])
+for i in array1[1]:
+    print (i)
 
+array1.append(1)= [3,2,1]
+
+for i in array1:
+    print(1)
