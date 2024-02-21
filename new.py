@@ -1,10 +1,9 @@
 
-array1 = ['i',[1,2,4,5]]
+from array import *
 
-for i in array1[1]:
-    print (i)
+array_a = array('i', [1,2,3,4,5])
 
-array1.append(1)= [3,2,1]
-
-for i in array1:
-    print(1)
+for i in array_a[-3]:
+    print(i)   
+array_a.reverse()
+print( array_a)
