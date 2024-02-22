@@ -9,3 +9,6 @@ def student(id, fname, lname, courses):
 print (student(1, "Clyde", "Joseph",["Agriculture","A"]))
 
 
+def get(student):
+    return student
+
